@@ -1,5 +1,5 @@
 import streamlit as st
-import openai
+
 from PIL import Image
 import random
 # from chatbot import generate_response
